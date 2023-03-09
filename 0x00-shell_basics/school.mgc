@@ -1,2 +1,3 @@
 #!/bin/bash
-grep -l 'SCHOOL' *
+0   string   SCHOOL
+file -m school.mgc SCHOOL
